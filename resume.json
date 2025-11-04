@@ -1,7 +1,7 @@
 {
   "titleNameMap": {
     "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "在校经历",
     "projectList": "项目经验",
     "skillList": "个人技能",
     "awardList": "更多信息",
@@ -13,7 +13,7 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
+    "name": "韦大衡",
     "email": "736xxxx86@qq.com",
     "mobile": "156xxxx7119",
     "github": "https://github.com/visiky (1.1k 粉丝)",
