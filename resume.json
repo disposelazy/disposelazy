@@ -44,10 +44,7 @@
       "award_info": "国家励志奖学金",
       "award_time": "2024.10"
     },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
+   
   ],
   "workExpList": [
     {
@@ -104,7 +101,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+    "aboutme_desc": "🌱 对 Android 开发充满热情，扎实掌握 Java 基础、Android Studio及常用开发工具。通过自学，完成了个人项目 XX，熟练运用 ViewPager、ContentProvider 等组件实现功能需求。善于总结问题并持续改进，具备较强的学习能力和抗压能力，期待加入专业团队，在实际项目中积累经验，成长为优秀的 Android 开发工程师"
   },
   "theme": {
     "color": "#2f5785",
