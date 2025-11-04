@@ -9,13 +9,13 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "src": "https://avatars.githubusercontent.com/u/185333968?v=4",
     "hidden": false
   },
   "profile": {
     "name": "韦大衡",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
+    "email": "weidaheng0824@gmail.com",
+    "mobile": "13268082809",
     "github": "https://github.com/visiky (1.1k 粉丝)",
     "zhihu": "https://www.zhihu.com/people/visiky",
     "workExpYear": ""
@@ -23,8 +23,8 @@
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2022.09.01",
+        "至今"
       ],
       "school": "山西农业大学",
       "major": "地理信息科学",
@@ -33,16 +33,16 @@
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "英语 CET4",
+      "award_time": "2024"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "优秀学生",
+      "award_time": "2024.10"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info": "国家励志奖学金",
+      "award_time": "2024.10"
     },
     {
       "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
